@@ -21,3 +21,5 @@ venv/
 # Data files
 *.csv
 *.xlsx
+
+personal/
