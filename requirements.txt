@@ -14,3 +14,4 @@ plotnine
 webdriver-manager
 ipykernel
 nbformat
+kaleido>=1.0.0
