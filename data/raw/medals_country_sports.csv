@@ -1,0 +1,114 @@
+﻿Rank,Country,Sport,Sport_Gold,Sport_Silver,Sport_Bronze,Sport_Total
+1,Norway,Alpine Skiing,0,1,1,2
+1,Norway,Biathlon,3,5,3,11
+1,Norway,Cross-Country Skiing,7,2,5,14
+1,Norway,Freestyle Skiing,2,0,0,2
+1,Norway,Nordic Combined,3,0,0,3
+1,Norway,Ski Jumping,2,2,1,5
+1,Norway,Speed Skating,1,2,1,4
+2,United States of America,Alpine Skiing,2,1,1,4
+2,United States of America,Bobsleigh,1,0,2,3
+2,United States of America,Cross-Country Skiing,0,2,1,3
+2,United States of America,Curling,0,1,0,1
+2,United States of America,Figure Skating,2,1,0,3
+2,United States of America,Freestyle Skiing,3,4,1,8
+2,United States of America,Ice Hockey,2,0,0,2
+2,United States of America,Luge,0,0,1,1
+2,United States of America,Short Track Speed Skating,0,0,1,1
+2,United States of America,Snowboard,0,1,1,2
+2,United States of America,Speed Skating,2,2,1,5
+3,Netherlands,Short Track Speed Skating,5,1,1,7
+3,Netherlands,Speed Skating,5,6,2,13
+4,Italy,Alpine Skiing,2,1,2,5
+4,Italy,Biathlon,1,1,0,2
+4,Italy,Cross-Country Skiing,0,0,2,2
+4,Italy,Curling,0,0,1,1
+4,Italy,Figure Skating,0,0,1,1
+4,Italy,Freestyle Skiing,1,1,1,3
+4,Italy,Luge,2,0,2,4
+4,Italy,Short Track Speed Skating,1,2,1,4
+4,Italy,Snowboard,0,1,2,3
+4,Italy,Speed Skating,3,0,2,5
+5,Germany,Alpine Skiing,0,2,0,2
+5,Germany,Biathlon,0,0,1,1
+5,Germany,Bobsleigh,3,4,1,8
+5,Germany,Cross-Country Skiing,0,0,1,1
+5,Germany,Figure Skating,0,0,1,1
+5,Germany,Freestyle Skiing,1,0,0,1
+5,Germany,Luge,3,1,1,5
+5,Germany,Skeleton,0,3,3,6
+5,Germany,Ski Jumping,1,0,0,1
+6,France,Alpine Skiing,0,1,0,1
+6,France,Biathlon,6,4,3,13
+6,France,Cross-Country Skiing,0,3,0,3
+6,France,Figure Skating,1,0,0,1
+6,France,Freestyle Skiing,0,0,1,1
+6,France,Ski Mountaineering,1,1,1,3
+6,France,Snowboard,0,0,1,1
+7,Sweden,Alpine Skiing,0,1,1,2
+7,Sweden,Biathlon,1,1,1,3
+7,Sweden,Cross-Country Skiing,5,4,1,10
+7,Sweden,Curling,2,0,0,2
+7,Sweden,Freestyle Skiing,0,0,1,1
+8,Switzerland,Alpine Skiing,4,3,2,9
+8,Switzerland,Bobsleigh,0,0,1,1
+8,Switzerland,Cross-Country Skiing,0,1,1,2
+8,Switzerland,Curling,0,1,1,2
+8,Switzerland,Freestyle Skiing,1,3,1,5
+8,Switzerland,Ice Hockey,0,0,1,1
+8,Switzerland,Ski Jumping,0,0,1,1
+8,Switzerland,Ski Mountaineering,1,1,0,2
+9,Austria,Alpine Skiing,1,2,1,4
+9,Austria,Freestyle Skiing,0,0,1,1
+9,Austria,Luge,0,3,1,4
+9,Austria,Nordic Combined,0,2,1,3
+9,Austria,Skeleton,1,0,0,1
+9,Austria,Ski Jumping,1,0,0,1
+9,Austria,Snowboard,2,1,1,4
+10,Japan,Figure Skating,1,3,2,6
+10,Japan,Freestyle Skiing,0,1,1,2
+10,Japan,Ski Jumping,0,1,3,4
+10,Japan,Snowboard,4,2,3,9
+10,Japan,Speed Skating,0,0,3,3
+11,Canada,Curling,1,0,1,2
+11,Canada,Figure Skating,0,0,1,1
+11,Canada,Freestyle Skiing,2,1,2,5
+11,Canada,Ice Hockey,0,2,0,2
+11,Canada,Short Track Speed Skating,1,2,2,5
+11,Canada,Snowboard,0,1,0,1
+11,Canada,Speed Skating,1,1,3,5
+12,People's Republic of China,Freestyle Skiing,3,3,3,9
+12,People's Republic of China,Short Track Speed Skating,0,1,0,1
+12,People's Republic of China,Snowboard,1,0,1,2
+12,People's Republic of China,Speed Skating,1,0,2,3
+13,Republic of Korea,Short Track Speed Skating,2,3,2,7
+13,Republic of Korea,Snowboard,1,1,1,3
+14,Australia,Freestyle Skiing,2,1,1,4
+14,Australia,Snowboard,1,1,0,2
+15,Great Britain,Curling,0,1,0,1
+15,Great Britain,Freestyle Skiing,0,0,1,1
+15,Great Britain,Skeleton,2,0,0,2
+15,Great Britain,Snowboard,1,0,0,1
+16,Czechia,Biathlon,0,0,1,1
+16,Czechia,Snowboard,1,1,0,2
+16,Czechia,Speed Skating,1,1,0,2
+17,Slovenia,Ski Jumping,2,1,1,4
+18,Spain,Ski Mountaineering,1,0,2,3
+19,Brazil,Alpine Skiing,1,0,0,1
+19,Kazakhstan,Figure Skating,1,0,0,1
+21,Poland,Ski Jumping,0,2,1,3
+21,Poland,Speed Skating,0,1,0,1
+22,New Zealand,Freestyle Skiing,0,0,1,1
+22,New Zealand,Snowboard,0,2,0,2
+23,Finland,Biathlon,0,0,1,1
+23,Finland,Cross-Country Skiing,0,0,1,1
+23,Finland,Ice Hockey,0,0,1,1
+23,Finland,Nordic Combined,0,1,2,3
+24,Latvia,Luge,0,1,0,1
+24,Latvia,Short Track Speed Skating,0,0,1,1
+25,Denmark,Speed Skating,0,1,0,1
+25,Estonia,Freestyle Skiing,0,1,0,1
+25,Georgia,Figure Skating,0,1,0,1
+28,Bulgaria,Biathlon,0,0,1,1
+28,Bulgaria,Snowboard,0,0,1,1
+29,Belgium,Short Track Speed Skating,0,0,1,1
